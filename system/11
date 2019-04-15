@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+df --output=source,used,avail /data/
