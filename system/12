@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-sudo du -h -d 1 /var
