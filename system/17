@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-sudo fdisk -l
+ssh dreelo@127.0.0.1
